@@ -9,7 +9,7 @@ To become a Cloud Solutions Architect.
 ## 📘 Progress
 - [x] Module 1: Python Basics (print, variables, simple programs)
 - [x] Module 2: Debugging & User Input
-- [ ] 
+* **Day 4 Note:** Deepening my understanding of Module 2 logic. Taking a rest day to let the concepts sink in!
 
 ## 🛠️ Tools
 - Python
