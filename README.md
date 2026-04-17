@@ -8,9 +8,9 @@ To become a Cloud Solutions Architect.
 
 ## 📘 Progress
 - [x] Module 1: Python Basics (print, variables, simple programs)
-- [x] Module 2: Debugging & User Input
-* **Day 4 Note:** Deepening my understanding of Module 2 logic. Taking a rest day to let the concepts sink in!
-
+- [x] Module 2: Debugging & User Input: Debugging & User Input ✅
+* **Day 5 Milestone:** Officially completed Module 2 on SoloLearn! Mastered user input and data types.
+- [ ] Module 3: Working with Data (Calculations & Conversion)
 ## 🛠️ Tools
 - Python
 - Pydroid 3
